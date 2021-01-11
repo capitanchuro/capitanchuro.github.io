@@ -3,22 +3,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
 html {
-  background-color: #1e1e1e;
+    background-color: #1e1e1e;
 }
 
 body {
-  width: 600px;
-  margin: 0 auto;
-  padding: 0 20px 20px 20px;
-  border: 5px solid black;
+    width: 600px;
+    background-color: #000000;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
 }
 
 h1 {
-  color: #FFFFFF;
-  font-family: 'Press Start 2P';
+    color: #FFFFFF;
+    font-family: 'Press Start 2P';
 }
 
 p {
-  color: #FFFFFF;
-  font-family: 'Source Code Pro';
+    color: #FFFFFF;
+    font-family: 'Source Code Pro';
 }
