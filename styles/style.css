@@ -8,15 +8,21 @@ html {
 
 body {
     width: 600px;
-    background-color: #000000;
-    margin: 0 auto;
-    padding: 0 20px 20px 20px;
-    border: 5px solid black;
 }
 
-h1 {
+nav {
+    color: #FFFFFF;
+    font-family: 'Russo One';
+    display: inline-block;
+}
+
+h2 {
     color: #FFFFFF;
     font-family: 'Press Start 2P';
+    background-color: #000000;
+    margin: 0 auto;
+    padding: 20px 20px 0 20px;
+    border: solid #FFFFFF;
 }
 
 p {
