@@ -1,17 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
 html {
   background-color: #000000;
 }
 
-h1 {
-   font-family: 'Press Start 2P';
-}
-
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #FFFFFF;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
+}
+
+h1 {
+  color: #FFFFFF;
+  font-family: 'Press Start 2P';
+}
+
+p {
+  color: #FFFFFF;
 }
