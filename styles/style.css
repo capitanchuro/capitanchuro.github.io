@@ -75,7 +75,7 @@ img {
     position: relative;
 }
 
-#subutai {
+#intro {
     margin-top: 50px;
     padding-left: 50px;
     padding-right: 50px;
@@ -92,7 +92,7 @@ img {
     position: relative;
 }
 
-#events {
+#feed {
     position: relative;
 }
 
@@ -100,7 +100,7 @@ hr {
     color: #FFFFFF;
 }
 
-#feed {
+#feed-title {
     text-align: center;
     position: relative;
 }
