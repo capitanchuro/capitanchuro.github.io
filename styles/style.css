@@ -18,6 +18,32 @@ nav {
     position: fixed;
 }
 
+#menu{
+    display: block;
+    margin-top: 0;
+    width: inherit;
+    height: inherit;
+    list-style-type: none;
+    text-align: center;
+    position: relative;
+}
+
+li {
+    font-family: 'Russo One';
+    margin-top: 16px;
+    margin-right: 10%;
+    display: inline-block;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+li:hover
+{
+    font-weight: bold;
+    cursor: pointer;
+    color: #b19cd9;
+}
+
 main{
     background-color: rgba(5,5,5,.3);
     top: 50px;
